@@ -1,5 +1,6 @@
-# Porter-Delivery-Time-Estimation
-***Porter Delivery Time Estimation using Neural Networks Regression***
+# Porter-Delivery-Time-Estimation | 
+
+***Porter Delivery Time Estimation using Neural Networks Regression*** [Click Here to Open the Notebook](https://colab.research.google.com/drive/1hXmu0APJ5YwBf8Q_blsOy1dQ_-3_S7SM?usp=sharing)
 
 - Built a regression-based machine learning model to estimate food delivery time using order details, pricing information, restaurant attributes, and delivery partner availability.
 - Engineered time-based and operational features from raw timestamps and logistics data to improve prediction accuracy.
